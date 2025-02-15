@@ -1,0 +1,11 @@
+.ballFloat {
+    transform-origin: bottom
+}
+
+.ballFloatEyes,.ballFloatMouth,.faceZZZ {
+    transform-origin: 120px
+}
+
+.faceLightRotateZZZ {
+    transform-origin: center
+}
